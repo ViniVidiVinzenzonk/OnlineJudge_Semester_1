@@ -1,2 +1,2 @@
 # OnlineJudge_Semester_1
-hehehehe
+Majority of these answers are mine, some are not! 
